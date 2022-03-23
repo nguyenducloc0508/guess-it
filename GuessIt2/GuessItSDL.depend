@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647966540 source:c:\users\user\downloads\guessitbysdl\guessitsdl_1_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+
+1647998162 source:c:\users\user\downloads\guess it 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+
